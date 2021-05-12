@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitGame</string>
+    <string name="hello_test">Hello Clone Test!</string>
 </resources>
